@@ -24,12 +24,12 @@ We have identified five directions of how HCI can support AI environmental susta
 
 Yet this workshop aims to collectively generate additional opportunities and challenges that go beyond our existing understanding. We will thus ensure that there is space for the participants to shape the workshop discussions and outputs based on their own interests and expertise and encourage participants to send in their perspectives.
 
-See also the [full Workshop proposal](assets/css/CHI26_Workshop_HCI-TERRA).
+See also the [full Workshop proposal](assets/css/CHI26_Workshop_HCI-TERRA.pdf){:target="_blank"}.
 
 ## Call for Participation
 Participation is open to all seasoned scholars and early career researchers. We solicit descriptions of completed projects, works-in-progress, and provocations of up to 4-pages (less are welcome) in the ACM CHI submission format. References do not count for the total page count. 
 
-Please submit your papers through **this [form](https://forms.cloud.microsoft/e/hWTJs1FfYz) by 10th February (AOE)**.
+Please submit your papers through **this [form](https://forms.cloud.microsoft/e/hWTJs1FfYz){:target="_blank"} by 10th February (AOE)**.
 
 The submissions will be reviewed by the workshop organizers and all accepted papers that opt-in will be published through this website and presented at the workshop. Note that according to CHI'26 this needs to be an in-person workshop and at least one author of each accepted submission must attend the workshop.
 
@@ -73,7 +73,7 @@ Sinem is a PhD student at King's College London researching the environmental su
 <br>
 <img src="assets/css/nanna.jpg" alt="Nanna's Photo" width="100" style="float: left;margin-right: 1em;"/>
 **Nanna Inie**, IT University of Copenhagen <br>
-Nanna is an Assistant Professor at the IT-University of Copenhagen, Denmark. Her research focuses on ethical, safe, and sustainable deployment of GenAI. She has extensive organization experience inside and outside of academia and has, among other events, founded and organized the largest TEDx event in Denmark. She did the $\coo$  accounting for GenAI in the CHI 2024 corpus, and has published on LLM security as "demon summoning", as well as on the effect of anthropomorphization of so-called AI systems on people's trust.
+Nanna is an Assistant Professor at the IT-University of Copenhagen, Denmark. Her research focuses on ethical, safe, and sustainable deployment of GenAI. She has extensive organization experience inside and outside of academia and has, among other events, founded and organized the largest TEDx event in Denmark. She did the CO2  accounting for GenAI in the CHI 2024 corpus, and has published on LLM security as "demon summoning", as well as on the effect of anthropomorphization of so-called AI systems on people's trust.
 <br>
 <br>
 <img src="assets/css/luiz.jpeg" alt="Luiz's Photo" width="100" style="float: left;margin-right: 1em;"/>
