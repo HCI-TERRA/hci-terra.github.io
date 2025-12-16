@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# HCI-TERRA: HCI Towards EnviRonmentally Responsible AI
+
+
 # What is this workshop about?
 
 The rapid adoption of AI has come with a significant environmental burden due to increased resource usage, yet such material and environmental impacts of AI are no surprise anymore. Following a successful workshop at FAccT'25, this CHI'26 workshop will consolidate ideas and create a grand challenges and opportunities map of this emerging topic of interest in HCI. 
