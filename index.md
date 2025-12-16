@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# HCI-TERRA: HCI Towards EnviRonmentally Responsible AI
+<!-- # HCI-TERRA: HCI Towards EnviRonmentally Responsible AI -->
 
 
-# What is this workshop about?
+## What is this workshop about?
 
 The rapid adoption of AI has come with a significant environmental burden due to increased resource usage, yet such material and environmental impacts of AI are no surprise anymore. Following a successful workshop at FAccT'25, this CHI'26 workshop will consolidate ideas and create a grand challenges and opportunities map of this emerging topic of interest in HCI. 
 
 The goal is to lay solid foundations of building a community of HCI researchers interested in mitigating the environmental impact of AI and accordingly bring methods from our inherently interdisciplinary domain that go beyond solutionist narratives. Topics include but are not limited to how we can support communities impacted by data centers, how we can engage with humor, participatory methods and speculative design futures to build awareness and how to best support the design of eco-feedback tools among others. 
 
 
-# Call for Participation
+## Call for Participation
 Participation is open to all seasoned scholars and early career researchers. We solicit descriptions of completed projects, works-in-progress, and provocations of up to 4-pages in the ACM CHI submission format excluding references. 
 
 The submissions will be reviewed by the workshop organizers and all accepted papers that opt-in will be published through our website and
