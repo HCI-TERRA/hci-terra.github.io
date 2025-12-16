@@ -53,45 +53,45 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3) -->
 ## Organisers 
 <img src="assets/css/georgia2.jpg" alt="Georgia's Photo" width="100" />
 <br>
-[Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London.
+[**Georgia Panagiotidou**](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London.
 <br>Georgia is an Assistant Professor at King's College London at the department of Informatics. Her work broadly centers around how people engage with environmental data exploring key challenges such as biases, uncertainties, and friction in collective data use. Georgia investigates the environmental impact of AI commencing from the tools and interfaces that developers, end-users and communities experience as probes. Leading this workshop and similar efforts at FAccT, she is building bridges between the domains of HCI, STS and sustainable AI.
 <br>
 <br>
 <img src="assets/css/silvia.jpeg" alt="Silvia's Photo" width="100"/> <br>
-Silvia Cazacu, KU Leuven <br>
-Silvia is a PhD student at KU Leuven and a Marie Curie fellow in the `Towards Sustainable Open Data Ecosystems' project where she focused on the inclusiveness of participatory data practices. Her research applies a feminist lens to critically analyze the power dynamics that emerge between diverse stakeholders who collaborate on infrastructural decisions about data. She combines participatory methods with tangible thinking tools such as data physicalization and serious games to make complex issues visible and negotiable. 
+**Silvia Cazacu**, KU Leuven <br>
+Silvia is a PhD student at KU Leuven and a Marie Curie fellow in the Towards Sustainable Open Data Ecosystems project where she focused on the inclusiveness of participatory data practices. Her research applies a feminist lens to critically analyze the power dynamics that emerge between diverse stakeholders who collaborate on infrastructural decisions about data. She combines participatory methods with tangible thinking tools such as data physicalization and serious games to make complex issues visible and negotiable. 
 <br>
 <br>
 <img src="assets/css/christina.png" alt="Christina's Photo" width="100"/> <br>
-Christina Bremer, University of Cambridge <br>
+**Christina Bremer**, University of Cambridge <br>
 Christina is a Research Associate at the University of Cambridge. She is working on the Green Algorithms Initiative, a project that focuses on quantifying and reducing the environmental impacts of computational science. More generally, by applying an HCI lens and combining efficiency with sufficiency principles, her works aims to help limit the environmental impacts of computing technology and use computing to facilitate environmentally sustainable decision-making and behaviors.
 <br>
 <br>
 <img src="assets/css/sinem.png" alt="Sinem's Photo" width="100"/> <br>
-Sinem Görücü, King's College London <br> 
+**Sinem Görücü**, King's College London <br> 
 Sinem is a PhD student at King's College London researching the environmental sustainability of machine learning through a Human–Computer Interaction (HCI) lens. Her work examines how practitioners perceive and engage with sustainability in AI development, and explores participatory and tangible approaches to making environmental costs of computing visible and actionable. Her research spans sustainable HCI, data physicalization, and participatory design. 
 <br>
 <br>
 <img src="assets/css/nanna.jpg" alt="Nanna's Photo" width="100"/> <br>
-Nanna Inie, IT University of Copenhagen <br>
-Nanna is an Assistant Professor at the IT-University of Copenhagen, Denmark. Her research focuses on ethical, safe, and sustainable deployment of GenAI. She has extensive organization experience inside and outside of academia and has, among other events, founded and organized the largest TEDx event in Denmark. She did the $\coo$  accounting for GenAI in the CHI 2024 corpus, and has published on LLM security as ``demon summoning'', as well as on the effect of anthropomorphization of so-called AI systems on people's trust.
+**Nanna Inie**, IT University of Copenhagen <br>
+Nanna is an Assistant Professor at the IT-University of Copenhagen, Denmark. Her research focuses on ethical, safe, and sustainable deployment of GenAI. She has extensive organization experience inside and outside of academia and has, among other events, founded and organized the largest TEDx event in Denmark. She did the $\coo$  accounting for GenAI in the CHI 2024 corpus, and has published on LLM security as "demon summoning", as well as on the effect of anthropomorphization of so-called AI systems on people's trust.
 <br>
 <br>
 <img src="assets/css/luiz.jpeg" alt="Luiz's Photo" width="100"/> <br>
-Luiz A. Morais, Universidade Federal de Pernambuco <br>
+**Luiz A. Morais**, Universidade Federal de Pernambuco <br>
 Luiz is an Assistant Professor at the Centro de Informática of the Universidade Federal de Pernambuco, in Brazil, and co-founder of the VIXE (Visualizações, Interfaces e eXperiências Emergentes) research group. His research bridges the fields of Human-Computer Interaction and Data Visualization, with a focus on sustainability and decoloniality. Morais critically examines how digital systems---especially artificial intelligence---affect the planet and society. His involvement in national and international workshops reflects a commitment to expanding the global debate from the margins, repositioning the Global South as a center of critical innovation.
 <br>
 <br>
 <img src="assets/css/valdivia.jpg" alt="Valdivia's Photo" width="100"/> <br>
-Ana Valdivia, Oxford Internet Institute, University of Oxford <br>
+**Ana Valdivia**, Oxford Internet Institute, University of Oxford <br>
 Ana is a Departmental Research Lecturer in Artificial Intelligence (AI), Government, and Policy at the Oxford Internet Institute (University of Oxford). She investigates how datafication and algorithmic systems are transforming political, social, and ecological territories and communities. Her current research agenda focuses on the AI supply chains, by investigating trade-off between environmental costs and social benefits of AI, from mineral extraction to chip manufacturing, data centers, and electronic waste dumps across different geographies.
 <br>
 <br>
 <img src="assets/css/raghav.png" alt="Raghav's Photo" width="100"/> <br>
-Raghavendra Selvan, IT University of Copenhagen <br>
+**Raghavendra Selvan**, IT University of Copenhagen <br>
 Raghav is an Assistant Professor at the Machine Learning (ML) Section, Dept. of Computer Science, University of Copenhagen (UCPH). His research interests  broadly lie at the intersection of sustainability and ML where he is investigating sustainability with ML, and also the sustainability of ML. He is the author of the book “Sustainable AI” (2025).
 <br>
 <br>
 <img src="assets/css/ben.png" alt="Ben's Photo" width="100"/> <br>
-Ben Snaith, King's College London <br>
+**Ben Snaith**, King's College London <br>
 Ben is a Visiting Researcher at King's College London researching data empowerment, environmental intelligences and internet infrastructures. His work looks to ground ecological and activist thinking within critical research on datafication and media infrastructures. 
