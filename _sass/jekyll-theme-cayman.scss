@@ -117,7 +117,7 @@ a {
   background-repeat: repeat-y;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 9rem 6rem;
   }
 
   @include medium {
@@ -133,10 +133,10 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem;
 
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.55);
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 2.25rem;
   }
 
   @include medium {
