@@ -57,7 +57,7 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3) -->
 <br>Georgia is an Assistant Professor at King's College London at the department of Informatics. Her work broadly centers around how people engage with environmental data exploring key challenges such as biases, uncertainties, and friction in collective data use. Georgia investigates the environmental impact of AI commencing from the tools and interfaces that developers, end-users and communities experience as probes. Leading this workshop and similar efforts at FAccT, she is building bridges between the domains of HCI, STS and sustainable AI.
 <br>
 <br>
-<img src="assets/css/silvia.jpeg" alt="Silvia's Photo" width="100" style="float: left;margin-right: 1em;"/>
+<img src="assets/css/silvia.jpg" alt="Silvia's Photo" width="100" style="float: left;margin-right: 1em;"/>
 **Silvia Cazacu**, KU Leuven <br>
 Silvia is a PhD student at KU Leuven and a Marie Curie fellow in the Towards Sustainable Open Data Ecosystems project where she focused on the inclusiveness of participatory data practices. Her research applies a feminist lens to critically analyze the power dynamics that emerge between diverse stakeholders who collaborate on infrastructural decisions about data. She combines participatory methods with tangible thinking tools such as data physicalization and serious games to make complex issues visible and negotiable. 
 <br>
