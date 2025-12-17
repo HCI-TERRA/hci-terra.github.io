@@ -24,7 +24,7 @@ We have identified five directions of how HCI can support AI environmental susta
 
 Yet this workshop aims to collectively generate additional opportunities and challenges that go beyond our existing understanding. We will thus ensure that there is space for the participants to shape the workshop discussions and outputs based on their own interests and expertise and encourage participants to send in their perspectives.
 
-See also the [full Workshop proposal](assets/css/CHI26_Workshop_HCI-TERRA.pdf){:target="_blank"}.
+See also the [full workshop proposal](assets/css/CHI26_Workshop_HCI-TERRA.pdf){:target="_blank"}.
 
 ## Call for Participation
 Participation is open to all seasoned scholars and early career researchers. We solicit descriptions of completed projects, works-in-progress, and provocations of up to 4-pages (less are welcome) in the ACM CHI submission format. References do not count for the total page count. 
