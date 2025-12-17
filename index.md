@@ -29,11 +29,12 @@ See also the [full Workshop proposal](assets/css/CHI26_Workshop_HCI-TERRA.pdf){:
 ## Call for Participation
 Participation is open to all seasoned scholars and early career researchers. We solicit descriptions of completed projects, works-in-progress, and provocations of up to 4-pages (less are welcome) in the ACM CHI submission format. References do not count for the total page count. 
 
-Please submit your papers through **this [form](https://forms.cloud.microsoft/e/hWTJs1FfYz){:target="_blank"} by 10th February (AOE)**.
+<!-- Please submit your papers through **this [form](https://forms.cloud.microsoft/e/hWTJs1FfYz){:target="_blank"} by 10th February (AOE)**. -->
+**Please submit your papers by emailing the lead organiser georgia.panagiotidou@kcl.ac.uk, by 14th February (AOE)**.
 
 The submissions will be reviewed by the workshop organizers and all accepted papers that opt-in will be published through this website and presented at the workshop. Note that according to CHI'26 this needs to be an in-person workshop and at least one author of each accepted submission must attend the workshop.
 
-For any questions please email the lead organiser __georgia.panagiotidou@kcl.ac.uk__.
+For any questions contact *georgia.panagiotidou@kcl.ac.uk*.
 
 
 <!-- ## Format -->
