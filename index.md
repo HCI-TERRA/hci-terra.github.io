@@ -92,6 +92,6 @@ Ana is a Departmental Research Lecturer in Artificial Intelligence (AI), Governm
 Raghav is an Assistant Professor at the Machine Learning (ML) Section, Dept. of Computer Science, University of Copenhagen (UCPH). His research interests  broadly lie at the intersection of sustainability and ML where he is investigating sustainability with ML, and also the sustainability of ML. He is the author of the book “Sustainable AI” (2025).
 <br>
 <br>
-<img src="assets/css/ben.png" alt="Ben's Photo" width="100" style="float: left;margin-right: 1em;"/>
+<img src="assets/css/ben.jpg" alt="Ben's Photo" width="100" style="float: left;margin-right: 1em;"/>
 **Ben Snaith**, King's College London <br>
 Ben is a Visiting Researcher at King's College London researching data empowerment, environmental intelligences and internet infrastructures. His work looks to ground ecological and activist thinking within critical research on datafication and media infrastructures. 
