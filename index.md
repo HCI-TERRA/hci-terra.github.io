@@ -62,7 +62,7 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3) -->
 Silvia is a PhD student at KU Leuven and a Marie Curie fellow in the Towards Sustainable Open Data Ecosystems project where she focused on the inclusiveness of participatory data practices. Her research applies a feminist lens to critically analyze the power dynamics that emerge between diverse stakeholders who collaborate on infrastructural decisions about data. She combines participatory methods with tangible thinking tools such as data physicalization and serious games to make complex issues visible and negotiable. 
 <br>
 <br>
-<img src="assets/css/christina.png" alt="Christina's Photo" width="100" style="float: left;margin-right: 1em;"/>
+<img src="assets/css/christina.jpg" alt="Christina's Photo" width="100" style="float: left;margin-right: 1em;"/>
 **Christina Bremer**, University of Cambridge <br>
 Christina is a Research Associate at the University of Cambridge. She is working on the Green Algorithms Initiative, a project that focuses on quantifying and reducing the environmental impacts of computational science. More generally, by applying an HCI lens and combining efficiency with sufficiency principles, her works aims to help limit the environmental impacts of computing technology and use computing to facilitate environmentally sustainable decision-making and behaviors.
 <br>
