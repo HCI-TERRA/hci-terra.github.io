@@ -131,7 +131,7 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 2rem;
+  // margin-bottom: 2rem;
   font-weight: bold;
 
   background-color: rgba(0, 0, 0, 1);
@@ -153,6 +153,7 @@ a {
 .project-date{
   font-weight: bold;
   background-color: rgba(0, 0, 0, 1);
+  margin-top: 0;
 }
 .project-tagline {
   // margin-bottom: 2rem;
