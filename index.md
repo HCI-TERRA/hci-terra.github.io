@@ -88,7 +88,7 @@ Ana is a Departmental Research Lecturer in Artificial Intelligence (AI), Governm
 <br>
 <br>
 <img src="assets/css/raghav.png" alt="Raghav's Photo" width="100" style="float: left;margin-right: 1em;"/>
-**Raghavendra Selvan**, IT University of Copenhagen <br>
+**Raghavendra Selvan**, University of Copenhagen <br>
 Raghav is an Assistant Professor at the Machine Learning (ML) Section, Dept. of Computer Science, University of Copenhagen (UCPH). His research interests  broadly lie at the intersection of sustainability and ML where he is investigating sustainability with ML, and also the sustainability of ML. He is the author of the book “Sustainable AI” (2025).
 <br>
 <br>
