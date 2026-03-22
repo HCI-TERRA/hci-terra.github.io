@@ -13,12 +13,22 @@ The goal is to lay solid foundations of building a community of HCI researchers 
 
 We hope to build a persistent hybrid research area among sustainable HCI and AI. Towards that goal, the planned output of this workshop is a synthesis grand challenges article or manifesto as well a series of follow-up community-building activities such as initiating a mailing-list, reading group and/or Discord channel.
 
+### Info
+
+📅 The workshop will take place on Thursday 16th April, at 2:15pm local time   
+📌 [Barcelona International Convention Centre](https://maps.app.goo.gl/8jziiZucLmmswxyYA), **P1 - Room 119**   
+
+**The workshop will be open to all participants regardless of submission**. You can find more information on the [CHI Program](https://programs.sigchi.org/chi/2026/program/content/214810).   
+
+
 ### Schedule
 
 **Part 1** (2:15 - 3:45pm)  
 - Introductions   
 - Presentations of submitted contributions  
 - Brainstorming of grand challenges and opportunities  
+
+(coffee break)
 
 **Part 2** (4:30pm - 6pm)
 - Challenge workshopping in break-out groups
