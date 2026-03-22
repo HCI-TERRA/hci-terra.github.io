@@ -13,6 +13,34 @@ The goal is to lay solid foundations of building a community of HCI researchers 
 
 We hope to build a persistent hybrid research area among sustainable HCI and AI. Towards that goal, the planned output of this workshop is a synthesis grand challenges article or manifesto as well a series of follow-up community-building activities such as initiating a mailing-list, reading group and/or Discord channel.
 
+### Schedule
+
+**Part 1** (2:15 - 3:45pm)  
+- Introductions   
+- Presentations of submitted contributions  
+- Brainstorming of grand challenges and opportunities  
+
+**Part 2** (4:30pm - 6pm)
+- Challenge workshopping in break-out groups
+- Presentation of action plans
+- Plenary discussion for next steps
+
+### Accepted Submissions
+
+1. _Uncomfortable Knowledge: Why Awareness Is Not Enough for Sustainable AI Research_. Emily Robinson  
+2. _Towards Sustainable AI: Does Environmental Consciousness Impact AI Usage?_ Lena Pohlmann, Hajo Boomgaarden, Sophie Lecheler, Emanuel Sallinger  
+3. _Is your request worthy enough?_ Sanni Juri
+4. _The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models_. Boris Ruf, Marcin Detyniecki
+5. _“Is the AI Water Issue Fake:” Discourse of GenAI’s Environmental Footprint_. Nino Migineishvili, Amelia Lee Doğan, Anoolia Gakhokidze, Chandana Robba
+6. _Personalized Sustainability Assistant: AI-infused Context Engineering to Connect Sustainability Understanding to Sustainable Actions_. Qiming Sun, I-Han Hsiao
+7. _Sustainable Model Selection Is a Design Problem: Supporting Exploration and Comparison in ML Practice_. Eya Ben Chaaben, Janin Koch
+8. _Reimagining AI for Gender-Based Violence through Care: Environmental Costs, Feminist Design Futures, and Safety Technologies_. Flavia Saxler
+9. _Diverting Water and Continuing Violence: Considering the fragile foundations of AI infrastructures in Colombia_. Jessica Mcclearn
+10. _Toolkit Proposal (Work-in-Progress): Participatory & Speculative Board-Game Making for AI and Environmental Governance Awareness_. Álvaro Vega-Hidalgo, Asrith Sunke
+11. _Rundown: Designing Game Strategies for Raising Awareness and Action on Environmental Impact of AI_, Ray LC
+12. _Supporting Environmental and Climate Justice Communities Navigating AI tools, technologies, and infrastructures_. Rachel Marston; Nina Lutz; Margot Brown; Katlyn M. Turner
+
+
 ### HCI Challenges and Opportunities to support AI Environmental Sustainability
 
 We have identified five directions of how HCI can support AI environmental sustainability synthesising literature and personal experiences of working in this domain. These are:
