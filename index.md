@@ -13,8 +13,6 @@ The goal is to lay solid foundations of building a community of HCI researchers 
 
 We hope to build a persistent hybrid research area among sustainable HCI and AI. Towards that goal, the planned output of this workshop is a synthesis grand challenges article or manifesto as well a series of follow-up community-building activities such as initiating a mailing-list, reading group and/or Discord channel.
 
-### Info
-
 📅 The workshop will take place on Thursday 16th April, at 2:15pm local time   
 📌 [Barcelona International Convention Centre](https://maps.app.goo.gl/8jziiZucLmmswxyYA), **P1 - Room 119**   
 
