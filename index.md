@@ -35,7 +35,7 @@ We hope to build a persistent hybrid research area among sustainable HCI and AI.
 
 ### Accepted Submissions
 
-1. _Uncomfortable Knowledge: Why Awareness Is Not Enough for Sustainable AI Research_. Emily Robinson  
+1. [_Uncomfortable Knowledge: Why Awareness Is Not Enough for Sustainable AI Research_](assets/submissions/CHI_2026_HCI_TERRA_Uncomfortable_Knowledge.pdf){:target="_blank"}. Emily Robinson  
 2. [_Towards Sustainable AI: Does Environmental Consciousness Impact AI Usage?_](assets/submissions/CHI_2026_HCI_TERRA_TowardsSustainableAI_DoesEnvironmentalConsciousnessImpactAIUsage.pdf){:target="_blank"} Lena Pohlmann, Hajo Boomgaarden, Sophie Lecheler, Emanuel Sallinger  
 3. [_Is your request worthy enough?_](assets/submissions/CHI_2026_HCI_TERRA_Is_your_request_worthy_enough_SANNI.pdf){:target="_blank"} Sanni Juri
 4. _The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models_. Boris Ruf, Marcin Detyniecki
@@ -43,10 +43,10 @@ We hope to build a persistent hybrid research area among sustainable HCI and AI.
 6. [_Personalized Sustainability Assistant: AI-infused Context Engineering to Connect Sustainability Understanding to Sustainable Actions_](assets/submissions/CHI_2026_HCI_TERRA_Personalized_Sustainability.pdf){:target="_blank"}. Qiming Sun, I-Han Hsiao
 7. [_Sustainable Model Selection Is a Design Problem: Supporting Exploration and Comparison in ML Practice_](assets/submissions/CHI_2026_HCI_TERRA_BenChaaben_Koch.pdf){:target="_blank"}. Eya Ben Chaaben, Janin Koch
 8. [_Reimagining AI for Gender-Based Violence through Care: Environmental Costs, Feminist Design Futures, and Safety Technologies_](assets/submissions/CHI_2026_HCI_TERRA_Saxler-edited-top.pdf){:target="_blank"}. Flavia Saxler
-9. _Diverting Water and Continuing Violence: Considering the fragile foundations of AI infrastructures in Colombia_. Jessica Mcclearn
+9. [_Diverting Water and Continuing Violence: Considering the fragile foundations of AI infrastructures in Colombia_](assets/submissions/CHI_2026_HCI_TERRA_JessicaMcClearn_FinalSubmission.pdf){:target="_blank"}. CHI_2026_HCI_TERRA_JessicaMcClearn_FinalSubmission). Jessica Mcclearn
 10. _Toolkit Proposal (Work-in-Progress): Participatory & Speculative Board-Game Making for AI and Environmental Governance Awareness_. Álvaro Vega-Hidalgo, Asrith Sunke
-11. _Rundown: Designing Game Strategies for Raising Awareness and Action on Environmental Impact of AI_, Ray LC
-12. _Supporting Environmental and Climate Justice Communities Navigating AI tools, technologies, and infrastructures_. Rachel Marston; Nina Lutz; Margot Brown; Katlyn M. Turner
+11. [_Rundown: Designing Game Strategies for Raising Awareness and Action on Environmental Impact of AI_](assets/submissions/CHI_2026_HCI_TERRA_RayLC_01Submit.pdf){:target="_blank"}. Ray LC
+12. [_Supporting Environmental and Climate Justice Communities Navigating AI tools, technologies, and infrastructures_](assets/submissions/CHI_2026_HCI_TERRA_FrontlineCommunities_AI_Marston-Lutz-Brown-Turner.pdf){:target="_blank"}. Rachel Marston; Nina Lutz; Margot Brown; Katlyn M. Turner
 
 
 ### HCI Challenges and Opportunities to support AI Environmental Sustainability
