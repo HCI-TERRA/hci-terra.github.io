@@ -46,7 +46,8 @@ We hope to build a persistent hybrid research area among sustainable HCI and AI.
 9. [_Diverting Water and Continuing Violence: Considering the fragile foundations of AI infrastructures in Colombia_](assets/submissions/CHI_2026_HCI_TERRA_JessicaMcClearn_FinalSubmission.pdf){:target="_blank"}. Jessica Mcclearn
 10. [_Toolkit Proposal (Work-in-Progress): Participatory & Speculative Board-Game Making for AI and Environmental Governance Awareness_](assets/submissions/CHI_2026_HCI_TERRA_Environmental_Governance_Awareness_UMich.pdf){:target="_blank"}. Álvaro Vega-Hidalgo, Asrith Sunke
 11. [_Rundown: Designing Game Strategies for Raising Awareness and Action on Environmental Impact of AI_](assets/submissions/CHI_2026_HCI_TERRA_RayLC_01Submit.pdf){:target="_blank"}. Ray LC
-12. [_Supporting Environmental and Climate Justice Communities Navigating AI tools, technologies, and infrastructures_](assets/submissions/CHI_2026_HCI_TERRA_FrontlineCommunities_AI_Marston-Lutz-Brown-Turner.pdf){:target="_blank"}. Rachel Marston; Nina Lutz; Margot Brown; Katlyn M. Turner
+12. [_Supporting Environmental and Climate Justice Communities Navigating AI tools, technologies, and infrastructures_](assets/submissions/CHI_2026_HCI_TERRA_FrontlineCommunities_AI_Marston-Lutz-Brown-Turner.pdf){:target="_blank"}. Rachel Marston, Nina Lutz, Margot Brown, Katlyn M. Turner
+13. [_More Memes, Less Metrics: Satire as Socio-Technical Infrastructure for Environmentally Responsible AI_](assets/submissions/CHI_2026_HCI_TERRA_More_Memes_Less_Metrics.pdf){:target="_blank"}. Kajol Jain, Siriya Pumapanich  
 
 
 ### HCI Challenges and Opportunities to support AI Environmental Sustainability
